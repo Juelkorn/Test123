@@ -1,0 +1,57 @@
+body {
+    background-color: whitesmoke;
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+    color: grey;
+    margin-bottom: 50px;
+}
+
+h2 {
+    color: lightblue;
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 10px
+}   
+
+img {
+    width: 20%;
+    height: auto;
+    border-radius: 50%;
+}
+
+ul{
+    margin-left: 20%;
+    list-style-position: inside;
+    text-align: initial;
+}   
+
+
+p{
+    color: darkgray;
+    white-space: normal ;
+}
+
+
+.Aboutme{
+    background-color: teal;
+    margin: 30px;
+}
+
+.Aboutme h2{
+    color: white;
+    font-size: 50px;
+}
+
+.skills{
+    margin: 30px;
+    background-color: thistle;
+    font-style: oblique;
+}
+
+.skills h2{
+    font-size: 50px;
+    color:white;
+}

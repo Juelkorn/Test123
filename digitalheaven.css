@@ -1,0 +1,33 @@
+
+body{
+    background-color: #86c1cd;
+    text-align: center;
+    font-family: "Roboto";
+    text-transform: uppercase;
+}
+
+h1{
+    align-content: center;
+    color: white;
+    font-weight: bold;
+    font-size: 90px;
+}
+
+p{
+    color: white
+}
+
+div{
+margin: 15%;
+
+}
+
+button{
+    margin: 10%;
+    padding: 5%;
+    border: 2px solid white;
+    background: transparent;
+    color: white;
+
+
+}
